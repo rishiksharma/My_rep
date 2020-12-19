@@ -1,2 +1,2 @@
 # My_rep
-### A collection of basic code & snippets that may come in handy.
+### A collection of basic code & snippets from various resources that may come in handy.
